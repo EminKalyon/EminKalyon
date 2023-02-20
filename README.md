@@ -30,33 +30,36 @@
 
 
 <pre>
-<span class="pl-ent">name</span>: <span class="pl-s">Emin Kalyon</span>
-<span class="pl-ent">located_in</span>: <span class="pl-s">Turkey, Istanbul</span>
-<span class="pl-ent">current_job</span>: <span class="pl-s">Front End Developer</span>
-<span class="pl-ent">education</span>:
-  <span class="pl-s">[</span>
-    <span class="pl-s"><span class="pl-pds">"</span>Self-Taught Developer and Designer<span class="pl-pds">"</span></span><span class="pl-s">,</span>
-    <span class="pl-s"><span class="pl-pds">"</span>Aviation associate degree program<span class="pl-pds">"</span></span><span class="pl-s">,</span>
-  <span class="pl-s">]</span>
-
-<span class="pl-ent">fields_of_interests</span>:
-  <span class="pl-s">[</span>
-    <span class="pl-s"><span class="pl-pds">"</span>Web Development<span class="pl-pds">"</span></span><span class="pl-s">,</span>
-    <span class="pl-s"><span class="pl-pds">"</span>UI/UX<span class="pl-pds">"</span></span><span class="pl-s">,</span>
-    <span class="pl-s"><span class="pl-pds">"</span>Photoshop<span class="pl-pds">"</span></span><span class="pl-s">,</span>
-    <span class="pl-s"><span class="pl-pds">"</span>Game Development<span class="pl-pds">"</span></span><span class="pl-s">,</span>
-  <span class="pl-s">]</span>
-<span class="pl-ent">Skills</span>:
-  <span class="pl-s">[</span>
-    <span class="pl-s">Html, Css<span class="pl-pds">"</span><span class="pl-pds">"</span></span><span class="pl-s">,</span>
-    <span class="pl-s">JavaScript<span class="pl-pds">"</span><span class="pl-pds">"</span></span><span class="pl-s">,</span>
-    <span class="pl-s">Angular<span class="pl-pds">"</span><span class="pl-pds">"</span></span><span class="pl-s">,</span>
-    <span class="pl-s">React<span class="pl-pds">"</span></span></span><span class="pl-s">,</span>
-  <span class="pl-s">]</span>
+```css
+<span>name</span>: <span>Emin Kalyon</span>
+<span>located_in</span>: <span>Turkey, Istanbul</span>
+<span>current_job</span>: <span>Front End Developer</span>
+```
+```css
+<span>education</span>:
+  <span>[</span>
+    <span><span>"</span>Self-Taught Developer and Designer<span>"</span></span><span>,</span>
+    <span><span>"</span>Aviation associate degree program<span>"</span></span><span>,</span>
+  <span>]</span>
+```
+<span>fields_of_interests</span>:
+  <span>[</span>
+    <span><span>"</span>Web Development<span>"</span></span><span>,</span>
+    <span><span>"</span>UI/UX<span>"</span></span><span>,</span>
+    <span><span>"</span>Photoshop<span>"</span></span><span>,</span>
+    <span><span>"</span>Game Development<span>"</span></span><span>,</span>
+  <span>]</span>
+<span>Skills</span>:
+  <span>[</span>
+    <span><span>"</span>Html, Css<span>"</span></span><span>,</span>
+    <span><span>"</span>JavaScript<span>"</span></span><span>,</span>
+    <span><span>"</span>Angular<span>"</span></span><span>,</span>
+    <span><span>"</span>React</span>"</span>
+  <span>]</span>
   
-<span class="pl-ent">currently_learning</span>: <span class="pl-s">["Docker, React Native"]</span>
-<span class="pl-ent">2023 Goals</span>: <span class="pl-s">["Create 22+ Projects and learn at least 5 new Technologies."]</span>
-<span class="pl-ent">hobbies</span>: <span class="pl-s">["Gaming", "Cinema", "photography", "Handmade Leather Work", "Piano"]</span></pre>
+<span>currently_learning</span>: <span>["Docker, React Native"]</span>
+<span>2023 Goals</span>: <span>["Create 22+ Projects and learn at least 5 new Technologies."]</span>
+<span>hobbies</span>: <span>["Gaming", "Cinema", "photography", "Handmade Leather Work", "Piano"]</span></pre>
 <hr>
 
 ```css
