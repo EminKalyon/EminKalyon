@@ -4,7 +4,7 @@
 
 
 
-<p align="center" dir="auto">
+<p align="center">
 <a href="https://portfolio-website-kohl-six.vercel.app/portfolio-en.html" rel="nofollow">
   <img height="50" src="https://user-images.githubusercontent.com/46517096/166972883-f5f1d88c-0246-4374-88ac-ded0f2cf0699.png" style="max-width: 100%;">
 </a>
@@ -29,35 +29,38 @@
 
 
 
-<pre>
-<span>name</span>: <span>Emin Kalyon</span>
-<span>located_in</span>: <span>Turkey, Istanbul</span>
-<span>current_job</span>: <span>Front End Developer</span>
-<span>education</span>:
-  <span>[</span>
-    <span><span>"</span>Self-Taught Developer and Designer<span>"</span></span><span>,</span>
-    <span><span>"</span>Aviation associate degree program<span>"</span></span><span>,</span>
-  <span>]</span>
-<span>fields_of_interests</span>:
-  <span>[</span>
-    <span><span>"</span>Web Development<span>"</span></span><span>,</span>
-    <span><span>"</span>UI/UX<span>"</span></span><span>,</span>
-    <span><span>"</span>Photoshop<span>"</span></span><span>,</span>
-    <span><span>"</span>Game Development<span>"</span></span><span>,</span>
-  <span>]</span>
-<span>Skills</span>:
-  <span>[</span>
-    <span><span>"</span>Html, Css<span>"</span></span><span>,</span>
-    <span><span>"</span>JavaScript<span>"</span></span><span>,</span>
-    <span><span>"</span>Angular<span>"</span></span><span>,</span>
-    <span><span>"</span>React</span>"</span>
-  <span>]</span>
-  
-<span>currently_learning</span>: <span>["Docker, React Native"]</span>
-<span>2023 Goals</span>: <span>["Create 22+ Projects and learn at least 5 new Technologies."]</span>
-<span>hobbies</span>: <span>["Gaming", "Cinema", "photography", "Handmade Leather Work", "Piano"]</span></pre>
-<hr>
 
+```yaml
+name: Emin Kalyon
+located_in: Turkey, Istanbul
+current_job: Front End Developer
+education:
+  [
+    "Self-Taught Developer and Designer",
+    "Aviation associate degree program",
+  ]
+company: Soulber
+
+fields_of_interests:
+  [
+    "Web Development",
+    "Data Science",
+    "UI/UX",
+    "Game Development",
+    "Photoshop",
+  ]
+Skills:
+  [
+    "Html, Css",
+    "JavaScript",
+    "Angular",
+    "React",
+  ]
+  
+currently_learning: ["Docker, React Native"]
+2022 Goals: ["Create 22+ Projects and learn at least 5 new Technologies."]
+hobbies: ["Gaming", "Cinema", "photography", "Handmade Leather Work", "Piano"]
+```
 
 <h2 dir="auto"><a id="user-content---some-tools-i-have-used-and-learned" class="anchor" aria-hidden="true" href="#--some-tools-i-have-used-and-learned"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a> <g-emoji class="g-emoji" alias="rocket" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f680.png">🚀</g-emoji> &nbsp;Some Tools I Have Used and Learned</h2>
 
